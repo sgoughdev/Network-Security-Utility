@@ -1,0 +1,6 @@
+{
+  "name": "Network Scanner & Utility",
+  "description": "A comprehensive network utility for TCP port scanning, ping simulation, Tor/VPN routing visualizer, and exportable network mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
